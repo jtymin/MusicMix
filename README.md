@@ -1,0 +1,5 @@
+Goal:
+Generating music using machine learning involves training algorithms on large datasets of music to learn the underlying patterns and structures characteristic of different genres or styles. We approached this task by initially collecting and preprocessing a diverse set of musical pieces, which include melodies, harmonies, rhythms, and timbres. Subsequently, the machine learning model, in this case deep neural network, was trained on this data. The trained model learned to predict or generate new musical sequences that are stylistically similar to the input. By adjusting parameters and refining the model, it can enhance its ability to create music that is both novel and aesthetically pleasing. In this work, the application of various network architectures such as recurrent neural networks (RNNs) was explored for this purpose. These results demonstrate a proof of principle that machine learning can become a relevant tool in the creative process, providing new avenues for musical expression and experimentation.
+Resources:
+1) Source code for ML-assissted music generation
+2) Example ML-generated music (Recommended to use GarageBand to open the midi file)
